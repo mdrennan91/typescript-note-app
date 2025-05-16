@@ -4,9 +4,7 @@ This is a simple notes app built with TypeScript. It runs in the terminal and le
 
 The goal was to get comfortable with TypeScript syntax and structure by building a small working project.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wct4h4bubF0)
 
 # Development Environment
 
@@ -25,6 +23,6 @@ The goal was to get comfortable with TypeScript syntax and structure by building
 
 # Future Work
 
-- add ability to delete or edit notes  
-- save notes to a file instead of just memory  
-- improve formatting in the terminal
+- Add the ability to delete or edit notes  
+- Save notes to a file instead of just memory  
+- Improve formatting in the terminal
