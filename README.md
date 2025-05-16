@@ -1,10 +1,8 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple notes app built with TypeScript. It runs in the terminal and lets the user add and view notes through a basic menu. The app uses classes, arrays, and a recursive loop to keep the interface running. It also includes an async function and basic exception handling.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
+The goal was to get comfortable with TypeScript syntax and structure by building a small working project.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +10,21 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- Visual Studio Code  
+- TypeScript  
+- Node.js  
+- ts-node  
+- No external libraries used
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [typescript documentation](https://www.typescriptlang.org/docs/)
+- [node.js readline module](https://nodejs.org/api/readline.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- add ability to delete or edit notes  
+- save notes to a file instead of just memory  
+- improve formatting in the terminal
